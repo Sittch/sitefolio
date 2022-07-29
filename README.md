@@ -1,2 +1,2 @@
 # sitefolio
-Personal site created with GitHub Pages.
+Personal website created with GitHub Pages.
